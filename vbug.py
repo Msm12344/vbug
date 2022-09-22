@@ -2,7 +2,7 @@
 # encoding: utf-8
 """
 Author  : DedSecTL
-Date	: 08-09-2019
+Date	: 22-09-2022
 Name	: Vbug Maker
 Purpose : Generate any virus on your device
 Thanks to Mr_Silent, Ghifari, Mr.Holmes, Mr_/bon'007, ID_OUT96...
@@ -80,7 +80,7 @@ try:
 	print '%sAuthor         : %sDedSecTL%s' % (G, R, N)
 	print '%sSpecial Thanks : %sHendriyawan %s( mr_silent )%s' % (G, R, Y, N)
 	print '%sCode           : %sPython%s' % (G, Y, N)
-	print '%sSupport by     : %sGhifari%s' % (G, R, N)
+	print '%sSupport by     : %sMr_yg_97%s' % (G, R, N)
 	print '%sDescription    : %sMake a %svirus.sh%s' % (G, Y, R, N)
 	print '%s@___%sBlackHole %sSecurity%s_____%s' % (Y, G, R, Y, N)
 	print '%s* %sTrust Me %s-- %sIm Coder %s*%s\n' % (Y, G, R, G, Y, N)
@@ -93,7 +93,7 @@ print '%s#%s---------------%s    vbu%sg%s--%sm%saker    %s----------------%s#%s'
 print '%s|%s We dont take responsibility for the use of this  %s|%s' % (Y, G, Y, N)
 print '%s|%s program                                          %s|%s' % (Y, G, Y, N)
 print '%s#%s---------------%s    -----------    %s----------------%s#%s' % (R, Y, R, Y, R, N)
-print '%s|%s vbu%sg m%saker %sv1.1 08-09-2019 %s(10:32)               |%s' % (Y, R, Y, R, G, Y, N)
+print '%s|%s vbu%sg m%saker %sv1.1 22-09-2022 %s(10:32)               |%s' % (Y, R, Y, R, G, Y, N)
 print '%s|%s Author  : DedSecTL                               %s|%s' % (Y, G, Y, N)
 print '%s|%s GitHub  : https://github.com/Gameye98            %s|%s' % (Y, G, Y, N)
 print '%s|%s Team    : BlackHole%s Security%s Cyber Team          %s|%s' % (Y, G, R, G, Y, N)
